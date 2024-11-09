@@ -17,7 +17,7 @@ The app dynamically updates icons and background images based on weather conditi
 3) Dynamic Background: Updates the background image based on the weather condition, enhancing the user experience with condition-based visuals.
 4) Location Search: Allows users to search for the weather in different locations.
 
-**Usage: **
+**Usage:**
 1) Enter a location in the search bar and click "Search" to view weather data for that area.
 2) The app displays:
    
